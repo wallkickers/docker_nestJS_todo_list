@@ -1,0 +1,9 @@
+# common
+node_modules
+.env*
+
+# api
+api/dist
+
+# front
+front/.next
